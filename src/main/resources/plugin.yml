@@ -1,0 +1,5 @@
+name: HelpfulMobs
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Gives tamed wolves, cats, and villagers helpful behaviors.
